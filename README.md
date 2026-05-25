@@ -54,7 +54,9 @@ platform, socket, os, datetime, random — all stdlib
 
 
 
-##Author
-##Ujjwal Mishra 
+##preview
+Author
+##preview
+Ujjwal Mishra 
 — CSE-AI @ GGSIPU-USICT
 2026
